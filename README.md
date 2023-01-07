@@ -11,8 +11,8 @@ A list of technologies used within the project:
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
+$ git clone https://github.com/Nani-7989/Bloodbank-UI.git
+$ change directory to the path where you installed.
 $ Extract the zip 
 $ Install Xampp
 $ copy the extracted to files to c:/xampp/htdocs
